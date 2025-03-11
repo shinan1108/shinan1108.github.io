@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : " Nan Shi's Homepage "
+title                    : " Nan Shi’s Homepage "
 title_separator          : "-"
 name                     : "Your Name"
 description              : &description "personal description"
